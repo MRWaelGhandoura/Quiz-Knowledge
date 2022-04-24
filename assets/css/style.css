@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
-
+/* fonts adapted from google fonts url:(https://fonts.google.com/) */
 :root{
     background-color: rgb(29, 26, 26);
 }
@@ -54,4 +54,17 @@ h2 {
 
 .hidden {
     display: none;
+}
+
+.btn {
+    font-size: 2.5rem;
+    padding: 2rem 0;
+    width: 30rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: rgb(28, 26, 26);
+    /* linear gradient generator from url:(https://cssgradient.io/)*/
+    background: linear-gradient(90deg, rgb(18, 92, 255) 0%, rgb(0, 102, 255) 100%);
+    border-radius: 4px;
 }

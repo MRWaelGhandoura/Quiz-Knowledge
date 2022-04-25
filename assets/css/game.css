@@ -28,6 +28,16 @@ body {
 
 }
 
+.correct {
+    background: linear-gradient(green);
+}
+
+.incorrect {
+    background:linear-gradient(red);
+}
+
+
+
 @media screen and (max-width: 768px) {
     .choice-container{
         min-width: 40rem;

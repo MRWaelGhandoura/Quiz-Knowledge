@@ -1,6 +1,7 @@
 body {
     color: #fff;
 }
+
 .choice-container {
     display: flex;
     margin-bottom: 0.8rem;
@@ -11,6 +12,7 @@ body {
     min-width: 80rem;
 
 }
+
 .choice-container:hover{
     cursor: pointer;
     box-shadow:0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0.5) ;
@@ -63,6 +65,13 @@ body {
     border-radius: 50px;
     overflow: hidden;
 }
+
+#progressBarFull {
+    height: 100%;
+    background: rgb(11, 233, 36);
+    width: 0%;
+}
+
 
 @media screen and (max-width: 768px) {
     .choice-container{

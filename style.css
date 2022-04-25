@@ -13,14 +13,14 @@
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 5.4rem;
     color: #fff;
     margin-bottom: 5rem;
 }
 
 h2 {
-    font-size: 4rem;
-    margin-top: 3.5rem;
+    font-size: 4.2rem;
+    margin-top: 4rem;
 }
 
 .container {
@@ -57,7 +57,7 @@ h2 {
 }
 
 .btn {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     padding: 2rem 0;
     width: 30rem;
     text-align: center;

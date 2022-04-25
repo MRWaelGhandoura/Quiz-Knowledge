@@ -36,7 +36,33 @@ body {
     background:linear-gradient(red);
 }
 
+/* heads up Display*/
 
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+
+}
+
+.hud-main-text {
+    text-align: center;
+}
+
+/*Progress bar adapted from url (https://alvarotrigo.com/blog/progress-bar-css/) */
+
+#progressBar {
+    width: 20rem;
+    height: 3rem;
+    border:0.2rem solid rgb(11, 233, 36) ;
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
 
 @media screen and (max-width: 768px) {
     .choice-container{

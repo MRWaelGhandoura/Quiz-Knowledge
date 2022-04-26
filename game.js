@@ -116,7 +116,8 @@ choices.forEach(choice => {
         const selectedAnswer = selectedChoice.dataset['number']
 
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
-
+        
+        /* increment score if correct */
         if(classToApply === 'correct') {
             incrementScore(SCORE_POINTS)
         }
@@ -130,3 +131,10 @@ choices.forEach(choice => {
         }, 1000)
     })
 })
+
+incrementScore = num => {
+    score +=num
+    scoreText.innerText = score
+}
+
+startGame()

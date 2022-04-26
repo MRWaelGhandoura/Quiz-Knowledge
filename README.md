@@ -68,6 +68,13 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 Wireframes can be as simple as a picture of a drawing of how you envisioned laying out the information for you pages in desktop, tablet and mobile views. They are a roadmap and do not have to be 100% accurate of the final product.
 
+![image](https://user-images.githubusercontent.com/99558735/165391865-a0cdbcc1-c769-4473-ac29-c18602eda562.png)
+![image](https://user-images.githubusercontent.com/99558735/165392924-46c435f6-d04d-48af-b8c4-123ea6b6866d.png)
+![image](https://user-images.githubusercontent.com/99558735/165393186-4ad4dddb-0d81-4aff-bb2d-71e20b43154c.png)
+![image](https://user-images.githubusercontent.com/99558735/165393533-120dda44-df0f-4eac-8833-37a6e7352b38.png)
+
+
+
 ### Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.

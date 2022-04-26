@@ -56,7 +56,7 @@ let questions = [
         choice2: 'Michel Angelo',
         choice3: 'Salvador Dali',
         choice4: 'Vincent Van Gogh',
-        answer: 3,
+        answer: 2,
         
     }
 

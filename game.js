@@ -62,3 +62,9 @@ let questions = [
 
 
 ]
+
+/* creating constants with a fixed value */
+
+const SCORE_POINTS = 100
+const MAX_QUESTIONS = 5
+

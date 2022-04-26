@@ -138,3 +138,4 @@ incrementScore = num => {
 }
 
 startGame()
+

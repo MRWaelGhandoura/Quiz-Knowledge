@@ -29,6 +29,8 @@ saveHighScore = e => {
 
     highScores.push(score);
 
+    /* sort high scores*/
+    
     highScores.sort((a,b) => {
         return b.score - a.score;
     });

@@ -87,6 +87,9 @@ It's easiest to break this section down into the header, footer, and each page/l
 
 Don't forget your 404 error page.
 
+![image](https://user-images.githubusercontent.com/99558735/165643289-239ef4ec-84a6-4ae3-8efd-0f5447defff9.png)
+
+
 #### Future Features
 
 Use this section to discuss plans for additional features to be implemented in the future:

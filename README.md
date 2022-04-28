@@ -1,21 +1,3 @@
-# OVERVIEW
-
-This template was made as a guide to ensure you cover assessment criteria in your second milestone write up. It is specific to the **PORTFOLIO 2: Javascript Essentials** project. It was based off the [loves maths_readmd.md](https://github.com/Code-Institute-Solutions/readme-love-maths) with a few additions to help elevate you to possible distinction status.
-
-## Helpful tools
-
-Markdown's not all that easy so sometimes you may want to use some tools to make tables. 
-
-- [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
-- [markdown table generator](https://www.tablesgenerator.com/markdown_tables) - used to help with documentation table formatting
-- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/) - used to create table of contents (be weary it does have some bugs if you have dashes or trailing spaces in your headers)
-- [readme.so](https://readme.so/) - if you don't want to learn markdown, this tool might help you
-
-# Table of Contents
-Copy your readme to http://ecotrust-canada.github.io/markdown-toc/ to make a table of contents.  This will help assessors to see the structure of your readme. Just test it out ast this tool isn't perfect. It tends to mess up with special characters like dashes.
-
-====================================== The Sections you Fill in are below ==============================
-
 # KNOWLEDGE QUIZ
 
 - Screenshot of logo/navigation of mobile deployed site
@@ -94,7 +76,17 @@ https://fonts.google.com/specimen/Poppins?query=pop
 
 #### Images
 
-Explain why you used certain icons and images on your site
+- Icons are used to make the website more realistic, give it some style and show the user more visual elements.
+- Icons are adapted from url : (https://fontawesome.com/)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849595-97817fab-da3e-4de2-a97f-387445db1c2e.png)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849672-216c996f-6456-4b28-875c-7032792a1c62.png)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849709-4ed5dfcf-8df6-4dda-b384-4e4cfb5190e7.png)
+
+
+
 
 #### Animations and Transitions
 

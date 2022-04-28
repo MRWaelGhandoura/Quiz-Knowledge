@@ -1,31 +1,17 @@
-# OVERVIEW
+# KNOWLEDGE QUIZ
 
-This template was made as a guide to ensure you cover assessment criteria in your second milestone write up. It is specific to the **PORTFOLIO 2: Javascript Essentials** project. It was based off the [loves maths_readmd.md](https://github.com/Code-Institute-Solutions/readme-love-maths) with a few additions to help elevate you to possible distinction status.
-
-## Helpful tools
-
-Markdown's not all that easy so sometimes you may want to use some tools to make tables. 
-
-- [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
-- [markdown table generator](https://www.tablesgenerator.com/markdown_tables) - used to help with documentation table formatting
-- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/) - used to create table of contents (be weary it does have some bugs if you have dashes or trailing spaces in your headers)
-- [readme.so](https://readme.so/) - if you don't want to learn markdown, this tool might help you
-
-# Table of Contents
-Copy your readme to http://ecotrust-canada.github.io/markdown-toc/ to make a table of contents.  This will help assessors to see the structure of your readme. Just test it out ast this tool isn't perfect. It tends to mess up with special characters like dashes.
-
-====================================== The Sections you Fill in are below ==============================
-
-# PROJECT NAME
-*replace the **PROJECT NAME** header with your project's name*
 - Screenshot of logo/navigation of mobile deployed site
-- Include a link to deployed project with one line explanation of project
+- link to the quiz : https://mrwaelghandoura.github.io/Quiz-Knowledge/
 
 ## Author
-DEVELOPER_NAME
+WAEL GHANDOURA
 
 ## Project Overview
 - Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
+![image](https://user-images.githubusercontent.com/99558735/165646360-f65faa0e-89b1-4287-93bc-7531f8a8f0cb.png)
+![image](https://user-images.githubusercontent.com/99558735/165823648-5a616bab-874a-4346-81e3-f66af5c8f0d9.png)
+
+
 - One or two paragraphs providing an overview of your project.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
 - Include a link to your deployed website
@@ -36,26 +22,71 @@ Generate after readme is complete for UX and below
 ## UX
 
 ### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+In the first phase of planning the website, an attempt was made to address the age group between 15 and 55.
+
+The website was designed to appeal to youth and adults. The questions and answers contain information that fits the wide range of ages that will play the quiz.
+
+The website offers a challenge to determine your level of knowledge.
 
 ### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
 
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
+#### Strategy Plane
+
+- The core of the site is that you can test your knowledge. Easy to play quiz for teenagers and adults.
+
+#### Scope / Structure / Skeleton Planes
+
+- The site would contain a very minimalist landing page, with a simple logo in the centre and two buttons, the play button to start the quiz and a high score button to display previous high scores.
+
+- The second page (the gameor quiz page) contains a progress bar at the top left that shows the number of questions answered by the user, the score area at the top right that shows the score that increases by 100 points for each correct answer, and the main quiz question in the centre with four choices.
+
+- The last page (the score page) contains the score the user has achieved, including a container to save the score to the leaderboard, a button to play again, and a button to return.
+
+- When designing the skeleton layer, care was taken to ensure that the user would only ever find a maximum of 4 clickable options on the screen. This was done so that the website is always intuitive and easy to navigate.
+
+
+#### Surface Plane
+
 
 #### Colors
 
-- Discuss your color pallet choices and how it ties into users' emotions or target audience.
-- include a screenshot of your pallet using a tool like coolors.co
+- The colors of the website were chosen to make the user feel calm and excited when taking the quiz. The colors were also carefully chosen to be pleasing to the eyes.
+
+- The colors were choosen as a palette from coolors.co  url :(https://coolors.co/125cff-e1f709-0066ff-f0dd06-ffffff)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165836110-3b45eb19-1d34-48b2-a4e3-0170e932e045.png)
+
+- The colors were converted from HEX to RGB by the help of : (https://www.rgbtohex.net/)
+
+
 
 #### Typography
 
-- discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
-- include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+- Font styles and sizes were chosen to be readable and easy on eyes from url: (https://fonts.google.com/)
+ 
+![image](https://user-images.githubusercontent.com/99558735/165836881-ce4a9895-70af-4bd6-beee-157cc5324d68.png)
+
+https://fonts.google.com/specimen/Poppins?query=pop
+
+![image](https://user-images.githubusercontent.com/99558735/165837012-c9ad9227-a53d-47bc-9d21-493ea4919ea8.png)
+
+ https://fonts.google.com/specimen/Roboto?query=robo
+
 
 #### Images
 
-Explain why you used certain icons and images on your site
+- Icons are used to make the website more realistic, give it some style and show the user more visual elements.
+- Icons are adapted from url : (https://fontawesome.com/)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849595-97817fab-da3e-4de2-a97f-387445db1c2e.png)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849672-216c996f-6456-4b28-875c-7032792a1c62.png)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165849709-4ed5dfcf-8df6-4dda-b384-4e4cfb5190e7.png)
+
+
+
 
 #### Animations and Transitions
 
@@ -107,6 +138,8 @@ If this section grows too long, you may want to split it off into a separate fil
 You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
+
+
 - [HTML Validator](https://validator.w3.org/)
 - [JS validation](https://jshint.com) for each .js file/ , if using ES6, add this before pasting in your file: `/*jshint esversion: 6 */ `
 - [JSON validation](https://jsonlint.com/) for each .json file 

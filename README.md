@@ -7,17 +7,13 @@
 WAEL GHANDOURA
 
 ## Project Overview
-- Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
-![image](https://user-images.githubusercontent.com/99558735/165646360-f65faa0e-89b1-4287-93bc-7531f8a8f0cb.png)
+
 ![image](https://user-images.githubusercontent.com/99558735/165823648-5a616bab-874a-4346-81e3-f66af5c8f0d9.png)
 
 
-- One or two paragraphs providing an overview of your project.
-- Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
-- Include a link to your deployed website
+- This website is designed to test the user's knowledge among beloved family and friends. It is simple, easy, fast and responsive for all devices. The questions in the quiz are suitable for all ages from 15 years old.
 
 ## Table of Contents
-Generate after readme is complete for UX and below
 
 ## UX
 
@@ -55,7 +51,7 @@ The website offers a challenge to determine your level of knowledge.
 
 - The colors were choosen as a palette from coolors.co  url :(https://coolors.co/125cff-e1f709-0066ff-f0dd06-ffffff)
 
- ![image](https://user-images.githubusercontent.com/99558735/165836110-3b45eb19-1d34-48b2-a4e3-0170e932e045.png)
+ ![image](https://user-images.githubusercontent.com/99558735/165856885-e773e8e4-b50f-45c0-b54e-2fd9d8869749.png)
 
 - The colors were converted from HEX to RGB by the help of : (https://www.rgbtohex.net/)
 
@@ -79,7 +75,7 @@ https://fonts.google.com/specimen/Poppins?query=pop
 - Icons are used to make the website more realistic, give it some style and show the user more visual elements.
 - Icons are adapted from url : (https://fontawesome.com/)
 
- ![image](https://user-images.githubusercontent.com/99558735/165849595-97817fab-da3e-4de2-a97f-387445db1c2e.png)
+ ![image](https://user-images.githubusercontent.com/99558735/165857008-d47b6055-f2cb-4925-94de-08a42411b703.png)
 
  ![image](https://user-images.githubusercontent.com/99558735/165849672-216c996f-6456-4b28-875c-7032792a1c62.png)
 
@@ -154,9 +150,8 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
 
 #### Future Features
 
-Use this section to discuss plans for additional features to be implemented in the future:
-
-If you end up not developing some features you hoped to implement, you can include those in this section.
+- In the future I would like to add a music button so the user can enjoy the quiz.
+- Adding more questions and specific categories.
 
 
 ## Testing
@@ -166,14 +161,29 @@ In this section, you need to convince the assessor that you have conducted enoug
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validation Testing
-You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
+
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
 
+ ![image](https://user-images.githubusercontent.com/99558735/165858457-1e872d83-525d-46ff-9f72-84bebd6c5eca.png)
+
+
 
 - [HTML Validator](https://validator.w3.org/)
-- [JS validation](https://jshint.com) for each .js file/ , if using ES6, add this before pasting in your file: `/*jshint esversion: 6 */ `
-- [JSON validation](https://jsonlint.com/) for each .json file 
+
+ ![image](https://user-images.githubusercontent.com/99558735/165858518-1b3594af-1900-4698-89e9-a7fdb85aead0.png)
+
+
+- [JS validation](https://jshint.com) for each .js file :
+
+![image](https://user-images.githubusercontent.com/99558735/165858046-cb5cf04a-800c-43ce-887a-99ed97670407.png)
+
+![image](https://user-images.githubusercontent.com/99558735/165858171-f4963c14-263b-4998-a187-0f710e607c19.png)
+
+![image](https://user-images.githubusercontent.com/99558735/165858324-7629abf1-21d8-4c36-88b0-d42862be338b.png)
+
+
+
 
 ### Cross Browser and Cross Device Testing
 Create a table that lists out what devices, browsers, and operating system you tested your application on and a brief description of why you chose the mixture you did. The point is to prove that you looked at the site across various browsers, operating systems, and viewport breakpoints.
@@ -254,8 +264,10 @@ It's ok to not resolve all the defects you found. If you know of something that 
 
 ## Lighthouse Audits
 
-You should run your deployed website pages through lighthouse's audit to check performance, accessibility, best practices and SEO scores. You should aim to get 85 or higher score. 
-https://web.dev/measure/  If you have lower scores, read the report and follow the links to address the flagged issues. You can run this tool from Chrome Dev Tools too against your local machine, but the performance will the worst (I personally ignore my performance results unless it's deployed code. I hope for > 60 on that mark, but > 85 on the other 3)
+- lighthouse Audit :
+
+ ![image](https://user-images.githubusercontent.com/99558735/165857470-bbbc25e0-1074-4ef4-8d30-b8af445c480b.png)
+
 
 ## Deployment
 

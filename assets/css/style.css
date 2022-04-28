@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 /* fonts adapted from google fonts url:(https://fonts.google.com/) */
+
+
+/* general styling */
 :root{
     background-color: rgb(29, 26, 26);
 }
@@ -89,6 +92,8 @@ h2 {
 #highscore-btn:hover {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(255, 255, 0, 0.5);
 }
+
+/* icons adapted from fontawesome url :(https://fontawesome.com/search?q=score&m=free&s=solid%2Cbrands) */
 
 .fa-play, .fa-star {
     font-size: 2.5rem;

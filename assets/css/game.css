@@ -1,6 +1,7 @@
 body {
     color: #fff;
 }
+/* Answer/ choice buttons css*/
 
 .choice-container {
     display: flex;
@@ -29,6 +30,8 @@ body {
     width: 100%;
 }
 
+/* If the answer is correct the button turns green
+   and if its incorrect the button turns red */
 .correct {
     background: linear-gradient(32deg, rgba(11, 223, 36) 0%, rgb(41, 232, 111) 100%);
 }
@@ -68,6 +71,8 @@ body {
     background: rgb(11, 223, 36);
     width: 0%;
 }
+
+/* media queries for tablets*/
 
 @media screen and (max-width: 768px) {
     .choice-container {

@@ -90,8 +90,13 @@ https://fonts.google.com/specimen/Poppins?query=pop
 
 #### Animations and Transitions
 
-- discuss any special animations or transitions you've included 
-- special hover state effects
+- All buttons on the website were given special hovering effects. A mixture of scaling and box shadowing was used to make the buttons look like the neon lights in an arcade.
+
+![image](https://user-images.githubusercontent.com/99558735/165852855-5e8413ff-4d32-4071-85cb-78ff5eb0dcb1.png)
+
+![image](https://user-images.githubusercontent.com/99558735/165852962-542d8884-643e-4c39-9f97-d4df29fea5dd.png)
+
+
 
 ### Wireframes
 
@@ -108,16 +113,19 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
 
 ### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
 
 #### Implemented Features
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- A special effect for correct and incorrect answers was used on the website, as shown in the following illustration:
+ Incorrect : The choice turn red
 
-It's easiest to break this section down into the header, footer, and each page/layer of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
+![image](https://user-images.githubusercontent.com/99558735/165854144-9b323290-f4f7-49c1-baac-53fc270f3eb6.png)
 
-Don't forget your 404 error page.
+ Correct : The choice turn green 
 
+ ![image](https://user-images.githubusercontent.com/99558735/165854370-5801f8ee-8026-4c57-b08a-21747e31eaea.png)
+
+- 404 error:
 ![image](https://user-images.githubusercontent.com/99558735/165643289-239ef4ec-84a6-4ae3-8efd-0f5447defff9.png)
 
 

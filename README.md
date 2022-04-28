@@ -126,23 +126,29 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
  ![image](https://user-images.githubusercontent.com/99558735/165854370-5801f8ee-8026-4c57-b08a-21747e31eaea.png)
  
 - A progress bar to show the progress of the game:
+
  ![image](https://user-images.githubusercontent.com/99558735/165854799-73ce35e4-16c6-4135-b0d4-7b7be4df224f.png)
 
 - A score area on the top right to show the user score:
+
  ![image](https://user-images.githubusercontent.com/99558735/165854918-2945bcc8-8937-49cb-8bcc-ffe23f17eba3.png)
 
 
 - At the end of the game an area to save the user score :
+
  ![image](https://user-images.githubusercontent.com/99558735/165855113-f3de7918-466f-4741-aa31-4896f5ae8bc0.png)
 
 - At the end of the game a button to play again and a go home button :
+
  ![image](https://user-images.githubusercontent.com/99558735/165855207-f4a9386f-3fea-4e01-ad91-3d6e432a34dc.png)
 
 - A leader board with go home button :
+
  ![image](https://user-images.githubusercontent.com/99558735/165855297-42e59374-0e94-4346-965d-80eb797e555d.png)
 
 
 - 404 error:
+
 ![image](https://user-images.githubusercontent.com/99558735/165643289-239ef4ec-84a6-4ae3-8efd-0f5447defff9.png)
 
 

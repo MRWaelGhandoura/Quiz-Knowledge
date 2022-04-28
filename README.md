@@ -40,7 +40,12 @@ Generate after readme is complete for UX and below
 ## UX
 
 ### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+In the first phase of planning the website, an attempt was made to address the age group between 15 and 55.
+
+The website was designed to appeal to youth and adults. The questions and answers contain information that fits the wide range of ages that will play the quiz.
+
+The website offers a challenge to determine your level of knowledge.
 
 ### Design Choices
 Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.

@@ -16,16 +16,20 @@ Copy your readme to http://ecotrust-canada.github.io/markdown-toc/ to make a tab
 
 ====================================== The Sections you Fill in are below ==============================
 
-# PROJECT NAME
-*replace the **PROJECT NAME** header with your project's name*
+# KNOWLEDGE QUIZ
+
 - Screenshot of logo/navigation of mobile deployed site
-- Include a link to deployed project with one line explanation of project
+- link to the quiz : https://mrwaelghandoura.github.io/Quiz-Knowledge/
 
 ## Author
-DEVELOPER_NAME
+WAEL GHANDOURA
 
 ## Project Overview
 - Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
+![image](https://user-images.githubusercontent.com/99558735/165646360-f65faa0e-89b1-4287-93bc-7531f8a8f0cb.png)
+![image](https://user-images.githubusercontent.com/99558735/165823648-5a616bab-874a-4346-81e3-f66af5c8f0d9.png)
+
+
 - One or two paragraphs providing an overview of your project.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
 - Include a link to your deployed website
@@ -107,6 +111,8 @@ If this section grows too long, you may want to split it off into a separate fil
 You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
+
+
 - [HTML Validator](https://validator.w3.org/)
 - [JS validation](https://jshint.com) for each .js file/ , if using ES6, add this before pasting in your file: `/*jshint esversion: 6 */ `
 - [JSON validation](https://jsonlint.com/) for each .json file 

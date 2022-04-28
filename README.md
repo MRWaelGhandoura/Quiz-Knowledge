@@ -271,25 +271,28 @@ It's ok to not resolve all the defects you found. If you know of something that 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages).
+1. Go to the repository created on GitHub.
+2. Click on 'Settings'.
+3. Scroll down and click on 'Pages' on the left-hand side menu.
+4. Select the 'Branch' 'master' and click on 'Save'.
+5. Allow GitHub a few minutes to deploy the website and then refresh the page.
+6. Website deployed.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any.
+ ![image](https://user-images.githubusercontent.com/99558735/165860572-109b3041-3483-4ba9-ae8a-d26fbc844ebb.png)
 
-Remember to use proper markdown for commands and enumerated steps.
+ ![image](https://user-images.githubusercontent.com/99558735/165860637-de92ae16-ab53-42f1-a2e2-5f0956cde80c.png)
+
+ ![image](https://user-images.githubusercontent.com/99558735/165860708-070de4be-a035-4b88-a51e-7922aadbb1c1.png)
 
 
-You may want to re-watch the [initial deployment in gitpod video](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/9b06129195c64fada6783de9cfe82d60/) when writing up this section.
-
-
-Write out steps you would take and test them to deploy your code to GitHub Pages, include screenshots if you think they would make the process easier.
 
 ## Credits
 
-To avoid plagiarism amd copyright infringement, you should mention any other projects, stackoverflow, videos, blogs, etc that you used to gather imagery or ideas for your code even if you used it as a starting point and modified things. Giving credit to other people's efforts and ideas that saved you time acknowledges the hard work others did. 
 
 ### Content
 
-Use bullet points to list out sites you copied text from and cross-reference where those show up on your site
+The quiz questions and answers were taken from the following websites:
+- 
 
 ### Media
 

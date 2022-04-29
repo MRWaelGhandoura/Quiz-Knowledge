@@ -49,11 +49,16 @@ The website offers a challenge to determine your level of knowledge.
 
 - The colors of the website were chosen to make the user feel calm and excited when taking the quiz. The colors were also carefully chosen to be pleasing to the eyes.
 
-- The colors were choosen as a palette from coolors.co  url :(https://coolors.co/125cff-e1f709-0066ff-f0dd06-ffffff)
+- The colors were chosen as a palette from coolors.co  url :(https://coolors.co/125cff-e1f709-0066ff-f0dd06-ffffff)
 
  ![image](https://user-images.githubusercontent.com/99558735/165856885-e773e8e4-b50f-45c0-b54e-2fd9d8869749.png)
 
 - The colors were converted from HEX to RGB by the help of : (https://www.rgbtohex.net/)
+
+- The background colors of the buttons were chosen from : (https://cssgradient.io/)
+ 
+ ![image](https://user-images.githubusercontent.com/99558735/165862669-dd0afcf4-3234-4bb7-982f-ebcf1c777e32.png)
+
 
 
 

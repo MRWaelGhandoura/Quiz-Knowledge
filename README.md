@@ -1,6 +1,7 @@
 # KNOWLEDGE QUIZ
 
-- Screenshot of logo/navigation of mobile deployed site
+![image](https://user-images.githubusercontent.com/99558735/165877941-0df38fab-702b-44b7-9a08-990522c64ca7.png)
+
 - link to the quiz : https://mrwaelghandoura.github.io/Quiz-Knowledge/
 
 ## Author

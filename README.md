@@ -212,30 +212,24 @@ view my manual testing document [here](https://docs.google.com/spreadsheets/d/1y
 
 ### Defect Tracking
 
-You should mention  any  bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-Again there are 3 different ways to do this, by your final project you should be using git hub tools.
-
-**1. Markdown**
-
-Desribe the issue in markdown. Include steps to reproduce, then what you did to resolve it.
-
-1. Contact form allows anything for email collection, even blank.
-   1. added pattern to HTML to make it have at least one character then the @ sybmol then a least one character and the . sign and at least one - 3 characters at the end.
-
-**2. Use Spreadsheets**
-
-Here is a [Defect Tracking Template](https://docs.google.com/spreadsheets/d/1tYB4X4wTCNEW_Y1no3hsGbclh2bLokl_I5Ev3s5EuJA/edit?usp=sharing) you use as a starting point to track defects. Make a copy of the sheet to your own account and update the Features sheet to match your project. 
-
-**3. Use Github Agile Tools**
-
-Create Custom Issue Template and a milestone in git hub.[Here's a brief overview](https://docs.google.com/document/d/1nDS5tZeMO77Dfq85IZGMSV6C41XaPm9FwcpR3k-UTVc/edit?usp=sharing) I put together on how to do this.
 
 ### Defects of Note
-Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and how you finally ended up resolving them.
 
+1- Lighthouse audits repeatedly fail because of the bright color contrast between the first gradient of the buttons and the text color.
+
+ By working on these sites that helped me very much i was able to find a match :
+ https://cssgradient.io/
+ https://coolors.co/u/wael_ghandoura
+ 
+ 2- The game question looks too big on mobile devices. 
+ Adding the correct media queries solved the problem.
+ 
+ 3- The game gave a 404.html error on github, while it worked fine on gitpod.
+ Adding the correct hrefs solved the problem.
+ 
 
 ### Outstanding Defects
-It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
+
 
 ## Lighthouse Audits
 

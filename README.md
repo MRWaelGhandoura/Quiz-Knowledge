@@ -148,7 +148,7 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
  ![image](https://user-images.githubusercontent.com/99558735/165855297-42e59374-0e94-4346-965d-80eb797e555d.png)
 
 
-- 404 error:
+- 404.html:
 
 ![image](https://user-images.githubusercontent.com/99558735/165643289-239ef4ec-84a6-4ae3-8efd-0f5447defff9.png)
 
@@ -297,15 +297,28 @@ It's ok to not resolve all the defects you found. If you know of something that 
 ### Content
 
 The quiz questions and answers were taken from the following websites:
-- 
+- https://www.mentimeter.com/blog/audience-energizers/55-free-trivia-and-fun-quiz-question-templates
+- https://www.cosmopolitan.com/uk/worklife/a32388181/best-general-knowledge-quiz-questions/
 
-### Media
 
-Make a list of sites you used images from. If you used several sites try to match up each image to the correct site. This includes attribution for icons if they came from font awesome or other sites, give them credit.
 
 ### Acknowledgments
 
-This is the section where you refer to code examples, mentors, blogs, stack overflow answers and videos that helped you accomplish your end project. Even if it's an idea that you updated you should note the site and why it was important to your completed project.
+- Progress bar adapted from url : (https://alvarotrigo.com/blog/progress-bar-css/)
+- Saving highscore (Javascript) adapted from : (https://michael-karen.medium.com/how-to-save-high-scores-in-local-storage-7860baca9d68)
 
-If you used a CodeInstitute Example project as a starting point. Make note of that here.
+YouTube videos :
+
+- https://www.youtube.com/watch?v=riDzcEQbX6k&t=984s
+- https://www.youtube.com/watch?v=pQr4O1OITJo
+- https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=3558s
+- https://www.youtube.com/watch?v=CqddbIrEM5I&list=PLAA3uifegEK_GOYENMW7oIpGngQ3XDzwq&index=1
+- https://www.youtube.com/watch?v=2jwdyO_UunE&list=PLAA3uifegEK_GOYENMW7oIpGngQ3XDzwq&index=2&t=1548s
+- https://www.youtube.com/watch?v=J8QbjXdVl9c&list=PLAA3uifegEK_GOYENMW7oIpGngQ3XDzwq&index=3&t=130s
+
+ * I would like to thank my family for thier valued time and support during the development of the site.
+ * I would like to thank my mentor Malia for her guidance, valuable information and great mentoring throughout the process.
+ * I would like to thank codeinstitute, slack community and student for all their support.  
+
+
 

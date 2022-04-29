@@ -316,9 +316,10 @@ YouTube videos :
 - https://www.youtube.com/watch?v=2jwdyO_UunE&list=PLAA3uifegEK_GOYENMW7oIpGngQ3XDzwq&index=2&t=1548s
 - https://www.youtube.com/watch?v=J8QbjXdVl9c&list=PLAA3uifegEK_GOYENMW7oIpGngQ3XDzwq&index=3&t=130s
 
- * I would like to thank my family for thier valued time and support during the development of the site.
+
+ * I would like to thank my family for their valuable time and support in the development of this website.
  * I would like to thank my mentor Malia for her guidance, valuable information and great mentoring throughout the process.
- * I would like to thank codeinstitute, slack community and student for all their support.  
+ * I would like to thank codeinstitute, the Slack community, and the students for all their support.
 
 
 

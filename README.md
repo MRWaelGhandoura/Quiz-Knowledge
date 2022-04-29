@@ -101,9 +101,7 @@ https://fonts.google.com/specimen/Poppins?query=pop
 
 ### Wireframes
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. 
-
-Wireframes can be as simple as a picture of a drawing of how you envisioned laying out the information for you pages in desktop, tablet and mobile views. They are a roadmap and do not have to be 100% accurate of the final product.
+Wireframes was made on : Balsamiq wireframes program, url to the site :https://balsamiq.com/
 
 ![image](https://user-images.githubusercontent.com/99558735/165391865-a0cdbcc1-c769-4473-ac29-c18602eda562.png)
 ![image](https://user-images.githubusercontent.com/99558735/165392924-46c435f6-d04d-48af-b8c4-123ea6b6866d.png)
@@ -161,9 +159,6 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validation Testing
 
@@ -191,7 +186,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 ### Cross Browser and Cross Device Testing
-Create a table that lists out what devices, browsers, and operating system you tested your application on and a brief description of why you chose the mixture you did. The point is to prove that you looked at the site across various browsers, operating systems, and viewport breakpoints.
+
 
 | TOOL / Device                 | BROWSER     | OS         | SCREEN WIDTH  |
 |-------------------------------|-------------|------------|---------------|
@@ -209,8 +204,6 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 view my manual testing document [here](https://docs.google.com/spreadsheets/d/1yK2xh-um0VA60lIJykqA4DKMP3xc3eXI-6a51qkb30U/edit#gid=0).  
 
-
-### Defect Tracking
 
 
 ### Defects of Note
